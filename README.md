@@ -1,8 +1,15 @@
 # Installing FreBSD and Ubuntu using VirtualBox
 ## FreeBSD
+
 FreeBSD is a free and open-source Unix-like operating system based on Berkeley Software Distribution (BSD) Unix. It the most popular BSD-based operating system designed for stability and performance. FreeBSD comes as a complete operating system with its kernel, device drivers, shell tools and many system tools ready for use.
 
 FreeBSD has seen a wide adoption by Internet Service Providers, students, researchers, computer professionals, and home users all over the world. There are over 20,000 packages ranging from databases, web servers, Developer tools, Desktop Applications , gaming, and business software available for easy installation.
+
+FreeBSD's kernel provides support for some essential tasks such as managing processes, communication, booting and filesystems. FreeBSD has a monolithic kernel, with a modular design. Different parts of the kernel, such as drivers, are designed as modules. The user can load and unload these modules at any time. ULE is the default scheduler in FreeBSD since version 7.1, it supports SMP and SMT. The FreeBSD kernel has also a scalable event notification interface, named kqueue. It has been ported to other BSD-derivatives such as OpenBSD and NetBSD. Kernel threading was introduced in FreeBSD 5.0, using an M:N threading model. This model works well in theory, but it is hard to implement and few operating systems support it. Although FreeBSD's implementation of this model worked, it did not perform well, so from version 7.0 onward, FreeBSD started using a 1:1 threading model, called libthr.
+
+FreeBSD uses tcsh(1) as the default root shell, and the Bourne shell-compatible sh(1) as the default user shell. sh(1) is very similar to Bash but with a much smaller feature-set. Generally shell scripts written for sh(1) will run in Bash, but the reverse is not always true.
+
+
 
 ### Steps
 - Download FreeBSD disk iso image file based on your system architecture from [https://www.freebsd.org/](https://www.freebsd.org/).
@@ -197,6 +204,13 @@ reboot
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(246).png)
 
 ## Ubuntu
+
+Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software. Ubuntu is officially released in three editions: Desktop, Server, and Core for Internet of things devices and robots. All the editions can run on the computer alone, or in a virtual machine. Ubuntu is a popular operating system for cloud computing, with support for OpenStack. Ubuntu's default desktop has been GNOME, since version 17.10.
+
+Ubuntu's default shell is Bash (like most other Linux distributions).
+
+At the core of the Ubuntu operating system is the Linux kernel, which manages and controls the hardware resources like I/O (networking, storage, graphics and various user interface devices, etc.), memory and CPU for your device or computer.
+
 
 - Select New in VirtualBox
 ![u1](https://www.freecodecamp.org/news/content/images/2019/11/start-1.png)
