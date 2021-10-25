@@ -145,3 +145,11 @@ reboot
 - After installation reboot and login.
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--40-.png)
 
+## What is Kernal and shell?
+
+Kernel is central component of an operating system that manages operations of computer and hardware. It basically manages operations of memory and CPU time. Kernel loads first into memory when an operating system is loaded and remains into memory until operating system is shut down again. It is responsible for various tasks such as disk management, task management, and memory management. It decides which process should be allocated to processor to execute and which process should be kept in main memory to execute. It basically acts as an interface between user applications and hardware.
+
+Shell is the interface to the operating system. It is the outermost layer of the operating system. Shells incorporate a programming language to control processes and files, as well as to start and control other programs.
+
+## What is Operating System(OS)?
+
