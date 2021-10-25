@@ -142,7 +142,7 @@ pkg install sudo
 
 - edit sudoers file using `visudo` command.
 ```bash
-visduo
+visudo
 ```
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(222).png)
 
