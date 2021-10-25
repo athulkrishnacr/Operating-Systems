@@ -62,6 +62,10 @@ FreeBSD uses tcsh(1) as the default root shell, and the Bourne shell-compatible 
 
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(144).png)
 
+Installation is finished.
+
+- Configure and setting up
+
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(146).png)
 
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(147).png)
@@ -106,9 +110,6 @@ FreeBSD uses tcsh(1) as the default root shell, and the Bourne shell-compatible 
 
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(171).png)
 
-
-- Installation of FreeBSD is now complete
-![vm1]()
 - Now you can install any Desktop enviroments or window managers like GNOME or KDE5 Plasma or XfCE. Here we are installing GNOME.
 ![vm1]()
 - Login in as root.
