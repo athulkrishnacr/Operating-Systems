@@ -110,8 +110,7 @@ Installation is finished.
 
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(171).png)
 
-- Now you can install any Desktop enviroments or window managers like GNOME or KDE5 Plasma or XfCE. Here we are installing GNOME.
-![vm1]()
+- Now you can install any Desktop enviroments or window managers like GNOME or KDE Plasma 5 or XFCE. Here we are installing GNOME.
 - Login in as root.
 
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(201).png)
@@ -203,6 +202,8 @@ reboot
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(245).png)
 
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(246).png)
+
+![GNOME](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/WhatsApp%20Image%202021-10-25%20at%209.04.43%20PM.jpeg)
 
 ## Ubuntu
 
