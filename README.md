@@ -31,8 +31,8 @@ FreeBSD uses tcsh(1) as the default root shell, and the Bourne shell-compatible 
 ![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(126).png)
 - Select the iso file.
 ![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(129).png)
-- The installer will start. Hit enter key.
-![vm1]()
+- The installer will start. Hit okay.
+
 - Follow these steps:
 ![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(131).png)
 
