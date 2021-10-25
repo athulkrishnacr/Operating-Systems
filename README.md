@@ -215,43 +215,68 @@ At the core of the Ubuntu operating system is the Linux kernel, which manages an
 
 
 - Select New in VirtualBox
+
 ![u1](https://www.freecodecamp.org/news/content/images/2019/11/start-1.png)
+
 - Select the appropriate type
+
 ![u2](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--14-.png)
+
 - Give the required RAM and Create a virtual hard disk
+
 ![u3](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--16-.png)
 
 ![u3](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--17--1.png)
+
 - Allocate storage
+
 ![u4](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--18-.png)
+
 - Now we have to set up iso file
 - Select disk image and open it
+
 ![u3](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--23-.png)
 
 ![u3](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--25-.png)
+
 - Press start to install
+
 ![u3](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--26-.png)
+
 - Click install ubuntu
 
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--27-.png)
+
 - select keyboard layout
+
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--29-.png)
+
 - Select Normal installation
+
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--30-.png)
+
 - Select "Erase disk and install Ubuntu"
+
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--31-.png)
+
 - Click continue
 
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--32-.png)
+
 - Choose your location
+
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--33-.png)
+
 - Set up your profile
 
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--34-.png)
+
 - Installation started
 
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--35-.png)
+
 - After installation reboot and login.
+
 ![u](https://www.freecodecamp.org/news/content/images/2019/11/Screenshot--40-.png)
 
 ## What is Kernal and shell?
