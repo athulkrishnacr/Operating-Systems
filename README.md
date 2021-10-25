@@ -7,27 +7,55 @@ FreeBSD has seen a wide adoption by Internet Service Providers, students, resear
 ### Steps
 - Download FreeBSD disk iso image file based on your system architecture from [https://www.freebsd.org/](https://www.freebsd.org/).
 - Open Oracle VirtualBox and select `New`.
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(116).png)
 - Give VM a name and choose OS type and version.
-![vm2]()
+![vm2](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(120).png)
 - Give the necessary RAM.
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(121).png)
 - Choose to create virtual hard disk.
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(122).png)
 - Choose hard disk file type
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(123).png)
 - Select Dynamic or fixed size storage type.
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(124).png)
 - Give atleast recommended disk space
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(125).png)
 - Now VM template is created and ready to start.
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(126).png)
 - Select the iso file.
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(129).png)
 - The installer will start. Hit enter key.
 ![vm1]()
 - Follow these steps:
-![vm1]()
+![vm1](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(131).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(132).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(133).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(134).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(135).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(136).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(137).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(138).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(139).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(140).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(141).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(142).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(143).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(144).png)
+
+
 - Set root password and add a guest user to the system.
 ![vm1]()
 - Installation of FreeBSD is now complete
