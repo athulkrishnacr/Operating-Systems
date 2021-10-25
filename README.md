@@ -55,56 +55,111 @@ FreeBSD has seen a wide adoption by Internet Service Providers, students, resear
 
 ![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(144).png)
 
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(146).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(147).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(148).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(149).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(150).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(151).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(152).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(153).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(154).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(155).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(156).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(157).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(158).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(159).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(160).png)
 
 - Set root password and add a guest user to the system.
-![vm1]()
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(162).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(163).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(166).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(167).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(169).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(171).png)
+
+
 - Installation of FreeBSD is now complete
 ![vm1]()
 - Now you can install any Desktop enviroments or window managers like GNOME or KDE5 Plasma or XfCE. Here we are installing GNOME.
 ![vm1]()
 - Login in as root.
-![vm1]()
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(201).png)
+
 - Update the system
 ```bash
 freebsd-update fetch
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(160).png)
+
 - Install the updates
 ```bash
 freebsd-update install
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(217).png)
+
 - Install NANO command-line text editor. You can also use vi command-line editor.
 ```bash
 pkg install nano
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(218).png)
+
 - Install and configure sudo
 ```bash
 pkg install sudo
 ```
-![vm1]()
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(220).png)
+
 - edit sudoers file using `visudo` command.
 ```bash
 visduo
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(222).png)
+
 - Once vi shows up, use your down arrow to navigate to the line that says root ALL=(ALL) ALL and add below the following:
 ```bash
 <your username> ALL=(ALL) ALL
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(223).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(224).png)
+
 sudo is now installed
 - Installing GNOME desktop environment
 ```bash
 pkg install gnome-desktop gdm xorg gnome3
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(225).png)
+
 - Enable dbus, hal, mouse, gdm deaemons
 ```bash
 nano /etc/rc.conf
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(228).png)
+
 Next, add the following lines in rc.config file:
 ```bash
 gnome_enable=”YES”
@@ -113,23 +168,33 @@ dbus_enable=”YES”
 hald_enable=”YES”
 gdm_enable=”YES”
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(231).png)
+
 - Mount /proc in fstab
 ```bash
 nano /etc/fstab
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(234).png)
+
 Add the following line in fstab file:
 ```bash
 proc /proc procfs rw 0 0
 ```
-![vm1]()
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(237).png)
+
 Save and close the fstab file.
 - Boot into GNOME desktop
 ```bash
 reboot
 ```
-![vm1]()
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(243).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(244).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(245).png)
+
+![v](https://github.com/athulkrishnacr/Operating-Systems/blob/main/freebsd%20and%20ubuntu/Screenshot%20(246).png)
 
 ## Ubuntu
 
